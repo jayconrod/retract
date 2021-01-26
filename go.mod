@@ -1,3 +1,3 @@
 module github.com/jayconrod/retract
 
-go 1.15
+go 1.16
