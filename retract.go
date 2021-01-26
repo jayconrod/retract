@@ -1,3 +1,3 @@
 package retract
 
-var Version = "v0.9.9"
+var Version = "v1.0.0"
